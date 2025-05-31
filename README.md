@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Angela Rossi</h1>
-<h3 align="center"> Tech & Science Enthusiast</h3>
+<h3 align="center"> Computer Scientist and Engineer</h3>
 
 ---
 
