@@ -7,7 +7,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a passionate Computer Science & Engineering Master's degree student with a love for exploring how code can shape the world! I enjoy diving into a mix of backend, frontend, mobile, and machine learning projects. Whether it’s a new framework or debugging at 3 AM (😅), I’m always eager to learn something new.
+I'm a passionate Computer Scientist and Engineer with a love for exploring how code can shape the world! I enjoy diving into a mix of backend, frontend, mobile, and machine learning projects. Whether it’s a new framework or debugging at 3 AM (😅), I’m always eager to learn something new.
 
 💻 I believe in **If it works, don't touch it**  
 🎮 I also love tinkering in **Unity** and creating 3D content with **Blender**  
