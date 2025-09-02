@@ -39,8 +39,9 @@ Welcome to my GitHub profile! I'm an Italian software engineer and multimedia co
   Thesis: _"Digital Dreams: How Videogames Revolutionized the World"_
 
 - 🌍 *Linguistic High School Diploma*  
-  **Liceo Linguistico Niccolò Tommaseo**, 2021 | EQF 5
+  **Liceo Linguistico Niccolò Tommaseo**, 2021 | EQF 5  
   Thesis: _"Children of The Grave: The meaning of family in the English and German literature"_
+
 ---
 
 ## 🧠 Skills & Technologies
@@ -56,6 +57,33 @@ Welcome to my GitHub profile! I'm an Italian software engineer and multimedia co
 
 - **Languages:**  
   🇮🇹 Italian (Native), 🇬🇧 English (C2 - Cambridge Proficiency), 🇪🇸 Spanish (B2)
+
+---
+
+## 🏅 Licenses & Certifications
+
+- **Software Engineer** – *HackerRank*  
+  *Issued Aug 2025*  
+  [Show credential](https://www.hackerrank.com/certificates/iframe/f33082d83671)  
+
+- **Automation Practitioner** – *Rewst*  
+  *Issued Jul 2025*  
+  Credential ID: `ws2b76qvdwe9`  
+  Skills: `Jinja · Industrial Automation`  
+
+- **Clean Automation** – *Rewst*  
+  *Issued Jul 2025*  
+  Credential ID: `ttc7senjxgt5`  
+  Skills: `Jinja · Industrial Automation`  
+
+- **Ethical Hacking** – *Udemy*  
+  *Issued Jul 2025*  
+  Credential ID: `UC-62b64cce-c918-4414-b276-5aa6fc6b96ac`  
+  Skills: `Ethical Hacking`  
+
+- **Music Business Specialization** – *Berklee College of Music*  
+  *Issued Aug 2023*  
+  Credential ID: `JFK4X8ASTBAZ`  
 
 ---
 
