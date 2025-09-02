@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm an Italian software engineer and multimedia co
 
 - 🌍 *Linguistic High School Diploma*  
   **Liceo Linguistico Niccolò Tommaseo**, 2021 | EQF 5
-
+  Thesis: _"Children of The Grave: The meaning of family in the English and German literature"_
 ---
 
 ## 🧠 Skills & Technologies
