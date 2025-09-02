@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm an Italian software engineer and multimedia co
 
 ## 💼 Professional Experience
 
-- **AI & Automation Developer** @ Henko SRL (Jul 2025 – Present)  
+- **Computer Scientist & Engineer** @ Henko SRL (Jul 2025 – Present)  
   Programming AI models and machine learning algorithms, creating business automations.
 
 - **Junior System Administrator & Developer (Intern)** @ ELAN42 (May 2025 – Jun 2025)  
