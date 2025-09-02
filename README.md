@@ -4,6 +4,10 @@ Welcome to my GitHub profile! I'm an Italian software engineer and multimedia co
 
 ---
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=angieneerangie&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+---
+
 ## 💼 Professional Experience
 
 - **Computer Scientist & Engineer** @ Henko SRL (Jul 2025 – Present)  
