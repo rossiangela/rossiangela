@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm an Italian software engineer and multimedia co
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=angieneerangie&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+[![Angie's GitHub stats](https://github-readme-stats.vercel.app/api?username=angieneerangie)](https://github.com/angieneerangie/github-readme-stats)
 
 ---
 
