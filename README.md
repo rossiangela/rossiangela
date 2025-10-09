@@ -1,10 +1,10 @@
-# 👋 Hello, I'm Angela Rossi!
+# Hello, I'm Angela Rossi
 
-Welcome to my GitHub profile! I'm an Italian software engineer and multimedia communicator with a multidisciplinary background that spans from AI and automation to game music composition and web development.
+Welcome to my GitHub profile, I'm an Italian software engineer and multimedia communicator with a multidisciplinary background that spans from AI and automation to game music composition and web development.
 
 ---
 
-[![Angie's GitHub stats](https://github-readme-stats.vercel.app/api?username=angieneerangie)](https://github.com/angieneerangie/github-readme-stats)
+[![Angela's GitHub stats](https://github-readme-stats.vercel.app/api?username=angieneerangie)](https://github.com/angelareginarossi/github-readme-stats)
 
 ---
 
@@ -90,5 +90,3 @@ Welcome to my GitHub profile! I'm an Italian software engineer and multimedia co
 ## 📫 Get in Touch
 
 - 📧 Email: [angela.rossi393@gmail.com](mailto:angela.rossi393@gmail.com)
-
-If you're working on something exciting — whether it's AI, automation, or something creative — feel free to connect or collaborate!
