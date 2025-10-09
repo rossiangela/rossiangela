@@ -4,10 +4,6 @@ Welcome to my GitHub profile, I'm an Italian software engineer and multimedia co
 
 ---
 
-[![Angela's GitHub stats](https://github-readme-stats.vercel.app/api?username=angieneerangie)](https://github.com/angelareginarossi/github-readme-stats)
-
----
-
 ## 💼 Professional Experience
 
 - **Computer Scientist & Engineer** @ Henko SRL (Jul 2025 – Present)  
