@@ -1,4 +1,4 @@
-# Hello, I'm Angela Rossi
+# Hello, I'm Angela Regina Rossi
 
 Welcome to my GitHub profile, I'm an Italian software engineer and multimedia communicator with a multidisciplinary background that spans from AI and automation to game music composition and web development.
 
