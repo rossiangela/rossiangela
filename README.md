@@ -1,6 +1,6 @@
 # Hello, I'm Angela Regina Rossi
 
-Welcome to my GitHub profile, I'm an Italian software engineer and multimedia communicator with a multidisciplinary background that spans from AI and automation to game music composition and web development.
+Welcome to my GitHub profile, I'm an Italian polymath, working as a software engineer and multimedia communicator with a multidisciplinary background that spans from AI and automation to game music composition, classical piano, and web development.
 
 ---
 
