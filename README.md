@@ -52,7 +52,7 @@ Welcome to my GitHub profile, I'm an Italian software engineer and multimedia co
   Unity, Blender, Rewst, WHMCS, Plesk, Angular
 
 - **Languages:**  
-  🇮🇹 Italian (Native), 🇬🇧 English (C2 - Cambridge Proficiency)
+  🇮🇹 Italian (Native), 🇬🇧 English (C2 - Cambridge Proficiency), 🇪🇸 Spanish (B2), 🇩🇪 German (B1)
 
 ---
 
