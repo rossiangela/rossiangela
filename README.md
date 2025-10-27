@@ -25,7 +25,12 @@ Welcome to my GitHub profile, I'm an Italian polymath, working as a computer sci
 
 ## 🎓 Academic Background
 
-- 🎓 *MSc in Multimedia Communication & Information Technology*  
+- 🧮 *Post-Graduate Diploma in Mathematics General Theory*
+  **Università Marconi**, 2026 | EQF 8
+  Focus: Mathematics and Geometry
+  Thesis:
+
+- 💻 *MSc in Multimedia Communication & Information Technology*  
   **University of Udine**, 2026 | EQF 7  
   Focus: Artificial Intelligence, Industrial Automation, IoT  
   Thesis in progress: _"Digital Terrorism, AI, and Deepfakes: Threat Analysis and Intelligent Defense Models"_
