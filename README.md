@@ -35,13 +35,13 @@ Welcome to my GitHub profile, I'm an Italian polymath, working as a computer sci
   Thesis in progress: _"Digital Terrorism, AI, and Deepfakes: Threat Analysis and Intelligent Defense Models"_
 
 - 🎵 *BA in Instrumental and Music Education*          
-  **Conservatorio Benedetto Marcello**, 2024 | EQF 6
-  Focus: Jazz Piano
+  **Conservatorio Benedetto Marcello**, 2024 | EQF 6    
+  Focus: Jazz Piano     
   Thesis: _"Digital Dreams: How Videogames Revolutionized the World"_
 
 - 🌍 *Linguistic High School Diploma*        
-  **Liceo Linguistico Niccolò Tommaseo**, 2021 | EQF 5
-  Focus: English, Spanish, and German
+  **Liceo Linguistico Niccolò Tommaseo**, 2021 | EQF 5   
+  Focus: English, Spanish, and German    
   Thesis: _"Children of The Grave: The meaning of family in the English and German literature"_
 
 ---
