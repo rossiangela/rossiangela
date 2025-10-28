@@ -40,7 +40,7 @@ Welcome to my GitHub profile, I'm an Italian polymath, working as a computer sci
   Thesis: _"Digital Dreams: How Videogames Revolutionized the World"_
 
 - 🎹 *A-Levels in Piano*        
-  **Trinity College London**, 2021 | EQF 5   
+  **Trinity College London**, 2021 | EQF 3   
 
 - 🌍 *Linguistic High School Diploma*        
   **Liceo Linguistico Niccolò Tommaseo**, 2021 | EQF 5   
