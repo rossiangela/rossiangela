@@ -29,7 +29,7 @@ Welcome to my GitHub profile, I'm an Italian polymath, working as a computer sci
   **Università Marconi**, 2026 | EQF 8  
   Focus: Natural Sciences
 
-- 💻 *MSc in Multimedia Communication & Information Technology*  
+- 💻 *MSc in Artificial Intelligence, Industrial Automation, Internet of Things*  
   **University of Udine**, 2026 | EQF 7  
   Focus: Artificial Intelligence, Industrial Automation, IoT  
   Thesis in progress: _"Digital Terrorism, AI, and Deepfakes: Threat Analysis and Intelligent Defense Models"_
