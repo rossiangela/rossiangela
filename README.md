@@ -39,10 +39,6 @@ Welcome to my GitHub profile, I'm an Italian polymath, working as a computer sci
 
 ## 🎓 Academic Background
 
-- 🐻 *Post-Graduate Master in General Theory of the Natural Sciences*       
-  **Università Marconi**, 2026 | EQF 8  
-  Focus: Natural Sciences
-
 - 💻 *MSc in Artificial Intelligence, Industrial Automation, Internet of Things*  
   **University of Udine**, 2026 | EQF 7  
   Focus: Artificial Intelligence, Industrial Automation, IoT  
