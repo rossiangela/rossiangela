@@ -25,9 +25,9 @@ Welcome to my GitHub profile, I'm an Italian polymath, working as a computer sci
 
 ## 🎓 Academic Background
 
-- 🧮 *Post-Graduate Diploma in Mathematics General Theory*       
+- 🐻 *Post-Graduate Master in General Theory of the Natural Sciences*       
   **Università Marconi**, 2026 | EQF 8  
-  Focus: Mathematics and Geometry
+  Focus: Natural Sciences
 
 - 💻 *MSc in Multimedia Communication & Information Technology*  
   **University of Udine**, 2026 | EQF 7  
