@@ -40,7 +40,7 @@ Welcome to my GitHub profile, I'm an Italian polymath, working as a computer sci
   Thesis: _"Digital Dreams: How Videogames Revolutionized the World"_     
 
 - 🌍 *Linguistic High School Diploma*        
-  **Liceo Linguistico Niccolò Tommaseo**, 2021 | EQF 5   
+  **Liceo Linguistico Niccolò Tommaseo**, 2021 | EQF 4   
   Focus: English, Spanish, and German    
   Thesis: _"Children of The Grave: The meaning of family in the English and German literature"_
 
