@@ -18,9 +18,23 @@ Welcome to my GitHub profile, I'm an Italian polymath, working as a computer sci
 - **Mathematics Tutor** @ University of Udine (Dec 2024 – Jul 2025)  
   Supported students in mathematics, assistant in Biometry 1 course.
 
-- **Other Roles:**  
-  Front Office at Hotel ai Do Mori, Library Assistant, Kindergarten Teacher, Copywriter, Game Music Composer, Web Radio DJ — blending tech and creativity in unique ways!
+- **Front & Back Office** @ Hotel ai Do Mori (Feb 2024 – Aug 2024)  
+  Front & Back office roles, had to talk to costumers.
 
+- **Kindergarten Teacher** @ an Italian public kindergarten (Oct 2023 – Dec 2023)
+
+- **Library Assistant** @ Venice Music Conservatory B. Marcello (Dec 2022 – Jul 2023)  
+  Transcription of newly-found autographs by Baldassarre Galuppi, Digitization of opera librettos.
+  
+- **Copywriting Agent** @ Agape Luk (Mar 2023 – Jun 2023)  
+  Email copywriting to influencers for selling digital services.
+    
+- **Game Music Composer** @ 1 Simple Game (Aug 2022 – Jan 2023)  
+  Composing soundtracks for video games.
+  
+- **Web Radio DJ** @ 1 Simple Game (Aug 2021 – Jan 2022)  
+  DJ for a New York web radio.
+  
 ---
 
 ## 🎓 Academic Background
