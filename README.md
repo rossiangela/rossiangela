@@ -32,7 +32,7 @@ Welcome to my GitHub profile, I'm an Italian polymath, working as a computer sci
 - **Game Music Composer** @ 1 Simple Game (Aug 2022 – Jan 2023)  
   Composing soundtracks for video games.
   
-- **Web Radio DJ** @ 1 Simple Game (Aug 2021 – Jan 2022)  
+- **Web Radio DJ** @ Neworld Millennium Inc. (Aug 2021 – Jan 2022)  
   DJ for a New York web radio.
   
 ---
