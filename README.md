@@ -29,7 +29,7 @@ Welcome to my GitHub profile, I'm an Italian polymath, working as a computer sci
 - **Library Assistant** @ Venice Music Conservatory B. Marcello (Dec 2022 – Jul 2023)  
   Transcription of newly-found autographs by Baldassarre Galuppi, Digitization of opera librettos.
 
-- **Secretary** @ Europe Direct (Oct 2022 - Dec 2022)
+- **Secretary** @ Europe Direct (Oct 2022 - Dec 2022)    
   Back office role.
     
 - **Game Music Composer** @ 1 Simple Game (Aug 2022 – Jan 2023)  
