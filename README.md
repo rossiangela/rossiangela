@@ -103,7 +103,12 @@ Welcome to my GitHub profile, I'm an Italian scientist, working as a computer sc
   *Issued Aug 2023*  
   Credential ID: `JFK4X8ASTBAZ`  
 
----
+---   
+
+## 🛸 Volunteering Experiences     
+TED Translator since 2023      
+
+---      
 
 ## 📫 Get in Touch
 
