@@ -45,7 +45,7 @@ Welcome to my GitHub profile, I'm an Italian scientist, working as a computer sc
 - 💻 *MSc in Artificial Intelligence, Industrial Automation, Internet of Things*  
   **University of Udine**, 2026 | EQF 7  
   Focus: Artificial Intelligence, Industrial Automation, IoT  
-  Thesis in progress: _"Digital Terrorism, AI, and Deepfakes: Threat Analysis and Intelligent Defense Models"_
+  Thesis in progress: _"Deepfakes: anatomy of a digital threat"_
 
 - 🎵 *BA in Instrumental and Music Education*          
   **Conservatorio Benedetto Marcello**, 2024 | EQF 6    
