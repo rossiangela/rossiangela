@@ -112,4 +112,4 @@ TED Translator since 2023
 
 ## 📫 Get in Touch
 
-- 📧 Email: [angela.rossi393@gmail.com](mailto:angela.rossi393@gmail.com)
+- 📧 Email: [scienceoraclebiz@gmail.com](mailto:scienceoraclebiz@gmail.com)
