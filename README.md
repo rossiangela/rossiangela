@@ -62,6 +62,19 @@ Welcome to my GitHub profile, I'm an Italian writer, working as an Automations W
 
 ---
 
+## 📚 Publications
+
+- **Momo, Billy e il cagnolino Willy (dall'altra parte)** – *Edizioni del Poggio*  
+  *Published 2024*  
+  Author: **Angela Regina Rossi**  
+  ISBN: `9791280156426`  
+  Series: *Il giardino della fantasia*  
+  Language: Italian  
+  Description: Illustrated monograph, 20×20 cm, unpaginated  
+  Publication Country: Italy
+
+---   
+
 ## 🧠 Skills & Technologies
 
 - **Programming Languages:**  
