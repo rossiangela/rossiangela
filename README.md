@@ -6,7 +6,7 @@ Welcome to my GitHub profile, I'm an Italian scientist, working as a computer sc
 
 ## 💼 Professional Experience
 
-- **Computer Scientist & Engineer** @ Henko SRL (Jul 2025 – Present)  
+- **Automations Writer & AI Specialist** @ Henko SRL (Jul 2025 – Present)  
   Programming AI models and machine learning algorithms, creating business automations.
 
 - **Junior System Administrator & Developer (Intern)** @ ELAN42 (May 2025 – Jun 2025)  
@@ -42,7 +42,7 @@ Welcome to my GitHub profile, I'm an Italian scientist, working as a computer sc
 
 ## 🎓 Academic Background
 
-- 💻 *MSc in Artificial Intelligence, Industrial Automation, Internet of Things*  
+- 💻 *MSc in Multimedia Communications and Internet of Things*  
   **University of Udine**, 2026 | EQF 7  
   Focus: Artificial Intelligence, Industrial Automation, IoT  
   Thesis in progress: _"Deepfakes: anatomy of a digital threat"_
@@ -112,4 +112,4 @@ TED Translator since 2023
 
 ## 📫 Get in Touch
 
-- 📧 Email: [scienceoraclebiz@gmail.com](mailto:scienceoraclebiz@gmail.com)
+- 📧 Email: [angela.rossi393@gmail.com](mailto:angela.rossi393@gmail.com)
