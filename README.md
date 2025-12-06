@@ -1,6 +1,6 @@
-# Hello, I'm Angela Rossi
+# Hello, I'm Angela Regina Rossi
 
-Welcome to my GitHub profile, I'm an Italian scientist, working as a computer scientist and engineer with a multidisciplinary background that spans from AI and automation to game music composition, classical and jazz piano, languages, and web development.
+Welcome to my GitHub profile, I'm an Italian writer, working as an Automations Writer and AI Specialist with a multidisciplinary background that spans from AI and automation to game music composition, classical and jazz piano, languages, and web development.
 
 ---
 
@@ -92,12 +92,15 @@ Welcome to my GitHub profile, I'm an Italian scientist, working as a computer sc
 - **Clean Automation** – *Rewst*  
   *Issued Jul 2025*  
   Credential ID: `ttc7senjxgt5`  
-  Skills: `Jinja · Industrial Automation`  
+  Skills: `Jinja · Industrial Automation`
 
-- **Ethical Hacking** – *Udemy*  
-  *Issued Jul 2025*  
-  Credential ID: `UC-62b64cce-c918-4414-b276-5aa6fc6b96ac`  
-  Skills: `Ethical Hacking`  
+- **Building Your Career as a Professional Singer** – *Berklee College of Music / Coursera*  
+  *Issued Aug 2023*  
+  [Show credential](https://coursera.org/verify/6CWPWCQ8U9KY)
+
+- **Singing Popular Music** – *Berklee College of Music / Coursera*  
+  *Issued Aug 2023*  
+  [Show credential](https://coursera.org/verify/RE2V2K284GQW)
 
 - **Music Business Specialization** – *Berklee College of Music*  
   *Issued Aug 2023*  
