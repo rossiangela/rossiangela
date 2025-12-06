@@ -45,7 +45,7 @@ Welcome to my GitHub profile, I'm an Italian writer, working as an Automations W
 - 💻 *MSc in Multimedia Communications and Information Technology*  
   **University of Udine**, 2026 | EQF 7  
   Focus: Artificial Intelligence, Industrial Automation, IoT  
-  Thesis in progress: _"Deepfakes: anatomy of a digital threat"_
+  Thesis in progress: _"Miyazaki's and studio Ghibli animation techniques and technologies"_
 
 - 🎵 *BA in Instrumental and Music Education*          
   **Conservatorio Benedetto Marcello**, 2024 | EQF 6    
