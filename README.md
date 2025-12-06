@@ -42,7 +42,7 @@ Welcome to my GitHub profile, I'm an Italian writer, working as an Automations W
 
 ## 🎓 Academic Background
 
-- 💻 *MSc in Multimedia Communications and Internet of Things*  
+- 💻 *MSc in Multimedia Communications and Information Technology*  
   **University of Udine**, 2026 | EQF 7  
   Focus: Artificial Intelligence, Industrial Automation, IoT  
   Thesis in progress: _"Deepfakes: anatomy of a digital threat"_
