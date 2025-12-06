@@ -6,6 +6,9 @@ Welcome to my GitHub profile, I'm an Italian writer, working as an Automations W
 
 ## 💼 Professional Experience
 
+- **Blogger & Writer** (2017 – Present)
+  Freelance.
+
 - **Automations Writer & AI Specialist** @ Henko SRL (Jul 2025 – Present)  
   Programming AI models and machine learning algorithms, creating business automations.
 
