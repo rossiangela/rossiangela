@@ -53,7 +53,12 @@ Welcome to my GitHub profile, I'm an Italian writer, working as an Automations W
 - 🎵 *BA in Instrumental and Music Education*          
   **Conservatorio Benedetto Marcello**, 2024 | EQF 6    
   Focus: Jazz Piano     
-  Thesis: _"Digital Dreams: How Videogames Revolutionized the World"_     
+  Thesis: _"Digital Dreams: How Videogames Revolutionized the World"_
+
+- 🖋️ *Post Diploma Course in Communication and social media marketing in industrial companies*          
+  **Università Pegaso**, 2024 | EQF 5     
+  Focus: Communication   
+  Thesis: _""_
 
 - 🌍 *Linguistic High School Diploma*        
   **Liceo Linguistico Niccolò Tommaseo**, 2021 | EQF 4   
