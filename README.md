@@ -47,22 +47,18 @@ Welcome to my GitHub profile, I'm an Italian writer, working as an Automations W
 
 - 💻 *MSc in Multimedia Communications and Information Technology*  
   **University of Udine**, 2026 | EQF 7  
-  Focus: Artificial Intelligence, Industrial Automation, IoT  
   Thesis in progress: _"Miyazaki's and studio Ghibli animation techniques and technologies"_
 
 - 🎵 *BA in Instrumental and Music Education*          
   **Conservatorio Benedetto Marcello**, 2024 | EQF 6    
-  Focus: Jazz Piano     
   Thesis: _"Digital Dreams: How Videogames Revolutionized the World"_
 
 - 🖋️ *Post Diploma Course in Communication and social media marketing in industrial companies*          
   **Università Pegaso**, 2024 | EQF 5     
-  Focus: Communication   
   Thesis: _""_
 
 - 🌍 *Linguistic High School Diploma*        
   **Liceo Linguistico Niccolò Tommaseo**, 2021 | EQF 4   
-  Focus: English, Spanish, and German    
   Thesis: _"Children of The Grave: The meaning of family in the English and German literature"_
 
 - 🎹 *A-Levels in Piano*        
