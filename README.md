@@ -85,10 +85,10 @@ Welcome to my GitHub profile, I'm an Italian writer, working as an Automations W
   `Python`, `C++`, `C#`, `Java`, `JavaScript`, `HTML`, `SQL`, `.NET`, `Swift`, `MATLAB`, `Flutter`, `Jinja`
 
 - **Specialties:**  
-  AI & Machine Learning, Automation, Cloud & API Integration, DevOps, Game Development with Unity, Data Science (Jupyter), Arduino, and Music Technology
+  AI & Machine Learning, Automation, Cloud & API Integration, Data Science (Jupyter), Music Technology, 2D/3D Drawing, Animation.
 
 - **Tools & Frameworks:**  
-  Unity, Blender, Rewst, WHMCS, Plesk, Angular
+  Unity, Blender, Rewst, Krita, Photo and Video Editing, Audio Workstations.
 
 - **Languages:**  
   🇮🇹 Italian (Native), 🇬🇧 English (C2 - Cambridge Proficiency), 🇪🇸 Spanish (B2), 🇳🇴 Norwegian (B1), 🇩🇪 German (B1), 🇷🇴 Romanian (B1), Klingon (B1)      
